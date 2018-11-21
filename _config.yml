@@ -19,7 +19,7 @@ BASE_PATH : http://goileo.top
 
 description : 你尊重别人，别人就尊重你
 title : Next stop
-logo : /assets/images/avatar.jpg
+logo : /assets/images/1.jpg
 #cover : /assets/images/background-cover.jpg
 
 
@@ -28,9 +28,9 @@ author:
   maxim: Stay hungry,Stay foolish
   role: Jekyll Theme
   email: goileolee@foxmail.com
-  github: goileolee
-  twitter: goileolee
-  facebook: goileolee
-  googleplus: +goileolee
-  bio: "Hi, 我是goileolee"
+  github: xiayizhan2017
+  twitter: xiayizhan2017
+  facebook: xiayizhan2017
+  googleplus: +xiayizhan2017
+  bio: "Hi, 我是Next stop"
   uno-dbyll: /assets/images/1.jpg
