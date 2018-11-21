@@ -19,7 +19,7 @@ BASE_PATH : http://goileo.top
 
 description : 你尊重别人，别人就尊重你
 title : 下一站
-logo : /assets/images/1.jpg
+logo : /assets/images/1.png
 #cover : /assets/images/background-cover.jpg
 
 
@@ -33,4 +33,4 @@ author:
   facebook: xiayizhan2017
   googleplus: +xiayizhan2017
   bio: "Hi, 我是Next stop"
-  uno-dbyll: /assets/images/1.jpg
+  uno-dbyll: /assets/images/1.png
